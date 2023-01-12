@@ -11,8 +11,6 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Próximamente](Próximamente)
 
-- 📝 Regularmente escribo artículos sobre [https://entreletrasnoesunblogderesenas.blogspot.com/](https://entreletrasnoesunblogderesenas.blogspot.com/)
-
 - 💬 Pregúntame sobre: **FullStack y aprendamos juntos**
 
 - 📫 Cómo contactarme **ckaren3023@gmail.com**
